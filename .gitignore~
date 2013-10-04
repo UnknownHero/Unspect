@@ -1,0 +1,15 @@
+node_modules
+app/vendor
+dist/*
+dist/main.js
+app/css
+vagrant/.vagrant
+
+result
+!result/index.html
+.grunt
+.sass-cache
+.idea
+*.iml
+*.log
+ports.json

@@ -1,0 +1,8 @@
+node_modules
+vagrant/.vagrant
+
+.grunt
+.sass-cache
+.idea
+*.iml
+*.log
